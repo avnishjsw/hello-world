@@ -1,5 +1,5 @@
 # hello-world
 This is Avnish.
 
-i had started my learning and knowledge development in web development.
+Changes to be made in the web development
 Hope to have a good ride.
